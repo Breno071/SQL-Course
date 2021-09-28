@@ -1,5 +1,5 @@
 /*O comando where indica uma condição para a consulta*/
-select * from tabela where condição;
+SELECT * FROM tabela WHERE condição;
 
 /*
 OPERADORES - DESCRIÇÃO
